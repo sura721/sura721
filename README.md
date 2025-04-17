@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @sura721  
+- 👀 I’m interested in building useful full-stack web apps and modern digital solutions that actually help people.  
+- 🌱 I’m currently learning Next.js and improving my skills in full-stack development with the MERN stack.  
+- 💞️ I’m looking to collaborate on cool real-world projects — especially ones that involve JavaScript, Node.js, or React.  
+- 📫 How to reach me: Telegram @Suras721 or drop a message via GitHub.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: My hobbies? Writing clean code and checkmating bugs — I’m into coding and chess like a true strategist ♟️💻  
+- 🎓 I’m a Software Engineering student at ASTU (Adama Science and Technology University).
