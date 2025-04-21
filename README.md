@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sura721  
+- 👋 Hi, I’m @surafel   
 - 👀 I’m interested in building useful full-stack web apps and modern digital solutions that actually help people.  
 - 🌱 I’m currently learning Next.js and improving my skills in full-stack development with the MERN stack.  
 - 💞️ I’m looking to collaborate on cool real-world projects — especially ones that involve JavaScript, Node.js, or React.  
