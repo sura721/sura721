@@ -37,9 +37,9 @@
 
 ## 🌍 Let’s Connect
 
-- 📱 **Telegram:** [@suras721](https://t.me/suras721)
+- 📱 **Telegram:** [@suras721](https://t.me/sura7_21)
 - 💼 **LinkedIn:** [Surafel Admas](https://www.linkedin.com/in/surafel-admas-8a8393365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 **Portfolio:** [surafels-portfolio.vercel.app](https://surafels-portfolio.vercel.app)
+- 🌐 **Portfolio:** [surafels-portfolio.vercel.app](https://suras-portfolio.vercel.app)
 - 📫 **Email:** [surafeladmas721@gmail.com](mailto:surafeladmas721@gmail.com)
 
 ---
