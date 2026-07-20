@@ -72,7 +72,7 @@ AI-powered software helping NGOs discover grants, organize proposal workflows, a
 <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sura721&show_icons=true&theme=github_dark&hide_border=true"/>
 </td>
 <td width="50%">
-<img width="100%" src="https://streak-stats.demolab.com?user=sura721&theme=github-dark-blue&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app?user=sura721&theme=github-dark-blue&hide_border=true"/>
 </td>
 </tr>
 </table>
