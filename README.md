@@ -4,24 +4,27 @@
 
 ### Full-Stack Engineer • AI Product Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Surafel+Admas;Building+AI-powered+Products;Full-Stack+Engineer;Backend+%26+System+Design+Enthusiast;Turning+Ideas+into+Production+Software" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Surafel+Admas;Building+AI-powered+Products;Backend+Engineering+%26+System+Design;Turning+Ideas+into+Production+Software" />
 </p>
 
-[Portfolio](https://suras-portfolio.vercel.app) •
-[Telegram](https://t.me/sura7_21)
+<a href="https://suras-portfolio.vercel.app">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://t.me/sura7_21">Telegram</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:surafeladmas721@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Software Engineering student at **Adama Science and Technology University (ASTU)**.
+I'm a Software Engineering student at **Adama Science and Technology University (ASTU)**, building modern web applications with a focus on **AI**, **backend engineering**, and **automation**.
 
-I build modern web applications with a focus on **AI**, **backend engineering**, and **real-world automation**. I enjoy designing software that is practical, scalable, and built to solve meaningful problems.
+🚀 **Currently building:** **GrantPilot** — an AI-powered platform helping NGOs discover funding opportunities and streamline grant proposal workflows.
 
-Currently building **GrantPilot**.
+I care about shipping things that actually work in production, not just proof-of-concepts that look good in a demo.
 
 ---
 
@@ -29,54 +32,27 @@ Currently building **GrantPilot**.
 
 ### Core
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,mongodb,prisma,supabase,tailwind,git,github,vercel,vite,tanstack,bun" />
 </p>
 
-### Database & Auth
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase" />
-</p>
-
-**Authentication**
-
-- Clerk
-- NextAuth.js
-- Supabase Auth
-
-### AI
+### AI & Automation
 
 - OpenAI
 - Google Gemini
 - Groq
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
+- Vector Search
 
-### Frontend
+### Libraries & Tools
 
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
-- TanStack Router
-- TanStack Query
-- Tiptap
-
-### Backend & Infrastructure
-
-- Socket.IO
-- Inngest
-- Stripe
-- Telegram Bot API
-- Cloudinary
-- UploadThing
-- Nodemailer
-- Git & GitHub
-- Vercel
-- Render
-- Bun
-- Vite
-- Zod
+- Clerk · NextAuth.js · Supabase Auth
+- Socket.IO · Inngest
+- TanStack Router · TanStack Query
+- shadcn/ui · Framer Motion · Tiptap
+- Stripe · Cloudinary · UploadThing
+- Telegram Bot API · Nodemailer · Zod
 
 ---
 
@@ -84,15 +60,25 @@ Currently building **GrantPilot**.
 
 ### 🚀 GrantPilot
 
-An AI-powered platform helping NGOs discover funding opportunities and streamline grant proposal workflows.
+AI-powered software helping NGOs discover grants, organize proposal workflows, and accelerate proposal development using modern language models.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
+
+<table align="center">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sura721&show_icons=true&theme=github_dark&hide_border=true"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://streak-stats.demolab.com?user=sura721&theme=github-dark-blue&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sura721&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sura721&hide_border=true&theme=github-dark-blue"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sura721&theme=github-compact&hide_border=true&custom_title=My%20Contribution%20Graph"/>
 </p>
 
 ---
@@ -102,15 +88,21 @@ An AI-powered platform helping NGOs discover funding opportunities and streamlin
 - ♟️ Chess
 - 📈 Financial Markets
 - 📚 History
-- 📖 Books
+- 📖 Reading
 - 🏛️ Philosophy
 
 ---
 
-## Contact
+## Reach Me
 
-📧 **surafeladmas721@gmail.com**
-
+📧 **Email** — surafeladmas721@gmail.com
 🌐 **Portfolio** — https://suras-portfolio.vercel.app
+💬 **Telegram** — https://t.me/sura7_21
 
-💬 **Telegram** — https://t.me/sura_721
+---
+
+<div align="center">
+
+*"Build products people remember, not just projects that compile."*
+
+</div>
