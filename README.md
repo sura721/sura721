@@ -89,7 +89,7 @@ AI-powered software helping NGOs discover grants, organize proposal workflows, a
 - 📈 Financial Markets
 - 📚 History
 - 📖 Reading
-- 🏛️ Philosophy
+- 🔍  Curiosity
 
 ---
 
